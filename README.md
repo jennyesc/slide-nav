@@ -1,2 +1,3 @@
 # slide-nav
-Slide-nav project test to use on portfolio
+Testing out the slide nav tutorial to use on portfolio. 
+original code from Udemy course
